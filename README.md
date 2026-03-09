@@ -30,6 +30,3 @@ The objective of this project is to transform raw sales data into meaningful ins
 
 ## Purpose of the Project
 This project demonstrates how Power BI can be used to convert raw data into meaningful business insights through interactive dashboards and visual analytics.
-
-## Author
-Tanvi
